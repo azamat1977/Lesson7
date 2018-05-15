@@ -1,0 +1,11 @@
+This is some really cool text
+This text is ok, but not like that last line
+This line is really pretty awfull
+exit
+cd
+exit()
+Hello 
+World 
+
+New Line
+
